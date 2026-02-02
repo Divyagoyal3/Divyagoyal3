@@ -13,8 +13,6 @@ Welcome to my GitHub! I focus on building beautiful, responsive, and user-friend
 - 🎨 Strong interest in **UI/UX & frontend architecture**
 - 📱 Currently working with **React Native for mobile apps**
 - 🌱 Always learning and improving my frontend skills
-- ⚡ Fun fact: I love converting designs into pixel-perfect UI
-
 ---
 
 ## 🛠️ Tech Stack
@@ -24,7 +22,7 @@ Welcome to my GitHub! I focus on building beautiful, responsive, and user-friend
 - 🅰️ Angular
 - 🧠 JavaScript / TypeScript
 - 🧩 HTML5, CSS3
-- 🎨 Bootstrap, Tailwind CSS
+- 🎨 Tailwind CSS
 
 ### 📱 Mobile Development
 - 📲 React Native
@@ -37,7 +35,6 @@ Welcome to my GitHub! I focus on building beautiful, responsive, and user-friend
 - 📦 npm / yarn
 - 🌐 Netlify / Vercel
 - 🔥 Firebase
-
 ---
 
 ## 📂 Featured Projects
@@ -49,29 +46,12 @@ Welcome to my GitHub! I focus on building beautiful, responsive, and user-friend
 - 📱 Fully responsive UI  
 
 🔗 **Live Demo:** https://food-reactify.netlify.app/
-
----
-
-### 🎬 Movies Website
-- ⚛️ React.js
-- 🔐 Firebase Authentication
-- 🎥 Clean UI with modern design
-
 ---
 
 ### 📱 React Native Practice Apps
 - 📲 UI-focused mobile apps
 - 🔄 API integration
 - 🎨 Reusable components & clean layouts
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyagoyal3&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyagoyal3&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Connect With Me
@@ -79,13 +59,11 @@ Welcome to my GitHub! I focus on building beautiful, responsive, and user-friend
 - 💼 **LinkedIn:** https://www.linkedin.com/in/divyagoyalcodebit/
 - 🧑‍💻 **GitHub:** https://github.com/Divyagoyal3
 - 📧 **Email:** goyaldivya631@gmail.com
-
 ---
 
 ## 🌟 Developer Motto
 
 > _"Great UI is invisible — it just feels right."_ ✨
-
 ---
 
 ⭐ **Feel free to explore my repositories and star what you like!**
